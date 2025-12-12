@@ -1,0 +1,8 @@
+{
+  "name": "Copy of LabelReader",
+  "description": "An accessible, high-contrast visual assistant for identifying everyday items using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
